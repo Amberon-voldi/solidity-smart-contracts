@@ -1,7 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
-contract Prosperium {
+//You can change the contract name to your liking
+contract ERC20 {
     string public name = "<name>"; // Provide name for your token
     string public symbol = "<symbol>"; // Provide symbol for your token
     uint8 public decimals = 18; // Default 18 decimals
